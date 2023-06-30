@@ -1,5 +1,6 @@
-![pe![back](https://github.com/daitoncheis/daitoncheis/assets/29989317/3147245c-0cb3-4686-90c8-75a1cbe6cabe)
-xels-photo-1496372](https://github.com/daitoncheis/daitoncheis/assets/29989317/29e7d434-ccbe-4407-9dbd-83fbb1dbb8c5)
+
+![back](https://github.com/daitoncheis/daitoncheis/assets/29989317/f8a04366-0153-4b8b-9f6e-53df4b1f1065)
+
 <header>
   
 <div>
