@@ -12,7 +12,7 @@
 </div>
 <div>
   <a href="mailto: daitoncheis@gmail.com">
-      <img width="30" src="/LuigiGf/LuigiGf/raw/main/gmail.svg" style="max-width: 100%;">
+      <img width="80" height="80" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
     </a>
 
   
