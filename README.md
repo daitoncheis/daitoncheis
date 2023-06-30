@@ -1,31 +1,29 @@
-
-<header>
-  
-<div>
-
+<body>
+ 
+<div class="titulo">
   <h2 align="center">Olá, me chamo Dáiton ✋</h1>
-  
-  <!--<picture><source srcset="https://github-readme-stats.vercel.app/api?username=daitoncheis&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/> 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daitoncheis"/>
-  </picture>  -->                                    
-  
+</div>
 
-  
-  </div>
+<!-- DESCRIÇÃO-->
 
-  
-  <h3 align="center">Atualmente estou no sexto período de Ciências da Computação, estou sempre disposto a aprender linguagens novas e me atualizar com as novas tecnologias </h3>
-  
+<div class="descrição">  
+  <h3 align="center">Atualmente estou no sexto período de Ciências da Computação, estou sempre disposto a aprender         linguagens novas e me atualizar com as novas tecnologias </h3>
   <h3 align="center">Melhores Tecnologias</h3>
 </div>
 
-<div  align="center">
-  <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>
-  <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="80" height="80" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
-  <img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
-  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+<!-- ÍCONES-->
+
+<div  class="iconesL" align="center">
+  <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>             <h4>JavaScript</h4>
+  <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <h4>HTML</h4>
+  <img width="80" height="80" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/> <h4>CSS3</h4>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/> <h4>NodeJs</h4>
+  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/> <h4>React</h4>
+  <img width="80" height="80" src="https://img.icons8.com/color/80/git.png" alt="git"/> <h4>GIT</h4>
 </div>
+
+<!-- CONTATOS -->
+
 <div align="center">
   <h3 align="center">Contatos</h3>
   
@@ -40,12 +38,15 @@
   <a href="https://wa.me/+5521974287581">
   <img width="40" height="40" src="https://img.icons8.com/office/40/whatsapp--v1.png" alt="whatsapp--v1"/>
   </a>
-  </header>
-
+  
+<!-- SNAKE -->
   ![snake](https://github.com/daitoncheis/daitoncheis/assets/29989317/b1832ca2-1034-4bbd-96a5-c1993478ff0f)
 
 
 </div>
+
+
+</body>
 
 
 
