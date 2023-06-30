@@ -1,4 +1,4 @@
-
+<header>
 <div>
   <h1 align="center">Olá, me chamo Dáiton ✋</h1>
   <h2 align="center">Melhores Tecnologias</h1>
@@ -24,6 +24,7 @@
   <a href="https://wa.me/+5521974287581">
   <img width="40" height="40" src="https://img.icons8.com/office/40/whatsapp--v1.png" alt="whatsapp--v1"/>
   </a>
+  </header>
 
   ![snake](https://github.com/daitoncheis/daitoncheis/assets/29989317/b1832ca2-1034-4bbd-96a5-c1993478ff0f)
 
