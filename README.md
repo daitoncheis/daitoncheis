@@ -11,8 +11,9 @@
   <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 </div>
 <div>
-  <h1 align="center">Contatos</h1>
-  <img link ="daitoncheis@gmail.com" width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" href="daitoncheis@gmail.com"/>
+  <a href="mailto: daitoncheis@gmail.com">
+      <img width="30" src="/LuigiGf/LuigiGf/raw/main/gmail.svg" style="max-width: 100%;">
+    </a>
 
   
 </div>
