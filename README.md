@@ -8,6 +8,7 @@
   <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
   <img width="80" height="80" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
   <img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
+  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 </div>
 
 
