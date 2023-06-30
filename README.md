@@ -21,6 +21,10 @@
   <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
 
+  <a href="https://wa.me/+5521974287581">
+  <img width="40" height="40" src="https://img.icons8.com/office/40/whatsapp--v1.png" alt="whatsapp--v1"/>
+  </a>
+
   
 </div>
 
