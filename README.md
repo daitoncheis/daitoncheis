@@ -12,9 +12,14 @@
 </div>
 <div>
   <h2 align="center">Contatos</h2>
+  
   <a href="mailto: daitoncheis@gmail.com">
-      <img width="40" height="40" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
-    </a>
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/d%C3%A1iton-cheis-841b03100/">
+  <img width="40" height="40" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
+  </a>
 
   
 </div>
