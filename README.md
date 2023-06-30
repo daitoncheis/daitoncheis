@@ -13,6 +13,7 @@
 <div>
   <h1 align="center">Contatos</h1>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" href="daitoncheis@gmail.com"/>
+  <a href="https://www.instagram.com/daitoncheis"><i class="fa-brands fa-square-instagram">
   
 </div>
 
