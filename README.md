@@ -1,13 +1,14 @@
 
-![back](https://github.com/daitoncheis/daitoncheis/assets/29989317/f8a04366-0153-4b8b-9f6e-53df4b1f1065)
-
 <header>
   
 <div>
 
   <h2 align="center">Olá, me chamo Dáiton ✋</h1>
-  <h2 align="center">Melhores Tecnologias</h1>
+  <h3 align="center">Atualmente estou no sexto período de Ciências da Computação, estou sempre disposto a aprender linguagens novas e me atualizar com as novas tecnologias </h3>
+  
+  <h3 align="center">Melhores Tecnologias</h3>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daitoncheis)](https://github.com/anuraghazra/github-readme-stats)
 <div  align="center">
   <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>
   <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -16,7 +17,7 @@
   <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
 </div>
 <div align="center">
-  <h2 align="center">Contatos</h2>
+  <h3 align="center">Contatos</h3>
   
   <a href="mailto: daitoncheis@gmail.com">
   <img width="40" height="40" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail"/>
