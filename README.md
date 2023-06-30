@@ -12,7 +12,7 @@
 </div>
 <div>
   <h1 align="center">Contatos</h1>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" href="daitoncheis@gmail.com"/>
+  <img link ="daitoncheis@gmail.com" width="48" height="48" src="https://img.icons8.com/fluency/48/gmail.png" alt="gmail" href="daitoncheis@gmail.com"/>
 
   
 </div>
