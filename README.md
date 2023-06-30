@@ -5,7 +5,7 @@
   
 <div>
 
-  <h1 align="center">Olá, me chamo Dáiton ✋</h1>
+  <h2 align="center">Olá, me chamo Dáiton ✋</h1>
   <h2 align="center">Melhores Tecnologias</h1>
 </div>
 <div  align="center">
