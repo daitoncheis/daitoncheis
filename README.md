@@ -25,7 +25,8 @@
   <img width="40" height="40" src="https://img.icons8.com/office/40/whatsapp--v1.png" alt="whatsapp--v1"/>
   </a>
 
-  
+  ![snake](https://github.com/daitoncheis/daitoncheis/assets/29989317/b1832ca2-1034-4bbd-96a5-c1993478ff0f)
+
 </div>
 
 
