@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/d%C3%A1iton-cheis-841b03100/">
-  <img width="4" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
   </a>
 
   
