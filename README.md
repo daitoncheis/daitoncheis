@@ -13,13 +13,13 @@
 
 <!-- ÍCONES-->
 
-<div  class="iconesL" align="center">
-  <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>JavaScript
-  <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> HTML5
-  <img width="80" height="80" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/> CSS3
-  <img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/> NodeJs
-  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>React
-  <img width="80" height="80" src="https://img.icons8.com/color/80/git.png" alt="git"/> GIT
+<div  align="center" dir="auto">
+  <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>
+  <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="80" height="80" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/>
+  <img width="80" height="80" src="https://img.icons8.com/fluency/96/node-js.png" alt="node-js"/>
+  <img width="80" height="80" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+  <img width="80" height="80" src="https://img.icons8.com/color/80/git.png" alt="git"/>
 </div>
 
 <!-- CONTATOS -->
