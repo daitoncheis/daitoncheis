@@ -4,11 +4,21 @@
 <div>
 
   <h2 align="center">Olá, me chamo Dáiton ✋</h1>
+  
+  <!--<picture><source srcset="https://github-readme-stats.vercel.app/api?username=daitoncheis&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/> 
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=daitoncheis"/>
+  </picture>  -->                                    
+  
+
+  
+  </div>
+
+  
   <h3 align="center">Atualmente estou no sexto período de Ciências da Computação, estou sempre disposto a aprender linguagens novas e me atualizar com as novas tecnologias </h3>
   
   <h3 align="center">Melhores Tecnologias</h3>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daitoncheis)](https://github.com/anuraghazra/github-readme-stats)
+
 <div  align="center">
   <img width="80" height="80" src="https://img.icons8.com/color/80/javascript--v1.png" alt="javascript--v1"/>
   <img width="80" height="80" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
@@ -33,6 +43,7 @@
   </header>
 
   ![snake](https://github.com/daitoncheis/daitoncheis/assets/29989317/b1832ca2-1034-4bbd-96a5-c1993478ff0f)
+
 
 </div>
 
