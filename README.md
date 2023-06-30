@@ -1,5 +1,7 @@
+![pexels-photo-1496372](https://github.com/daitoncheis/daitoncheis/assets/29989317/29e7d434-ccbe-4407-9dbd-83fbb1dbb8c5)
 <header>
-<div>![pexels-photo-1496372](https://github.com/daitoncheis/daitoncheis/assets/29989317/29e7d434-ccbe-4407-9dbd-83fbb1dbb8c5)
+  
+<div>
 
   <h1 align="center">Olá, me chamo Dáiton ✋</h1>
   <h2 align="center">Melhores Tecnologias</h1>
