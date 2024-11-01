@@ -7,7 +7,7 @@
 <!-- DESCRIÇÃO-->
 
 <div class="descrição">  
-  <h3 align="center">Atualmente estou no sexto período de Ciências da Computação, <br>estou sempre disposto a aprender linguagens novas e me <br>atualizar com as novas tecnologias </h3>
+  <h3 align="center">Atualmente estou estágio final de Ciências da Computação, <br>estou sempre disposto a aprender linguagens novas e me <br>atualizar com as novas tecnologias </h3>
   <h3 align="center">Melhores Tecnologias</h3>
 </div>
 
